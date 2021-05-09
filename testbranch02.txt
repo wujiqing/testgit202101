@@ -7,9 +7,6 @@ fewfwwe
 1
 2
 3a
-b
-<<<<<<< Updated upstream
-=======
-c
->>>>>>> Stashed changes
+b 
+c 
 d
